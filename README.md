@@ -1,2 +1,2 @@
 # tic-tac-toe
-A simple tic tac toe game between two users. 
+A tic tac toe game for two users. 
